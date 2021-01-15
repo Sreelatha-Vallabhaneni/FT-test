@@ -4,7 +4,7 @@ const HOME_SCREEN = {
   buttonFindTrailer: "Find en freetrailer",
   languageChoice: "Sprog",
   modalTitle: "Vælg sprog",
-  flag: require('../../assets/flags/dk.png')
+  flag: require('../../assets/flags/dk.png'),
 };
 export default {
   HOME_SCREEN,

@@ -6,6 +6,7 @@ import Modal from "./src/modal";
 import i18n from "i18n-js";
 
 i18n.fallbacks = true;
+i18n.locale = "da";
 
 export default function App() {
   return (
